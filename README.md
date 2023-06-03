@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Fábio and I'm from Aveiro, Portugal.
-- 🎓 I’m currently a PhD student at the University of Aveiro, exploring the link between anxiety and perceptual deficits in social scene interpretation.
-- 📈 This page will let me share my project relating to statistics and overall data science.
+- 🎓 I’m currently a PhD student in Psychology at the University of Aveiro, exploring the link between anxiety and perceptual deficits in social scene interpretation.
+- 📈 Aside from anything neuro-related, I'm also interested in data and data analysis. 
