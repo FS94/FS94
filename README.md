@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Fábio and I'm from Vila Nova de Gaia, Portugal.
-- 🎓 I’m currently a PhD student in Psychology at the University of Aveiro, exploring the link between anxiety and perceptual deficits in social scene interpretation.
+- 🎓 I am a researcher with a PhD in Psychology, focusing on the link between anxiety and perceptual deficits in social scene interpretation.
 - 📈 Aside from anything neuro-related, I'm also interested in data and data analysis. 
